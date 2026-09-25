@@ -1,4 +1,5 @@
 def main():
+    # entry point for the script
     print("Hello, World!")
 
 
